@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "test-mcp-server": {
+      "command": "python",
+      "args": ["/workspace/mcp_server.py"]
+    }
+  }
+}
